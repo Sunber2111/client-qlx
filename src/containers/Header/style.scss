@@ -1,0 +1,25 @@
+.bg-nav-header {
+    background-color: white !important;
+    display: flex !important;
+    align-items: center !important;
+    .btn-nav {
+        margin-left: 20px;
+        
+        svg {
+            width: 25px !important;
+            height: 25px !important;
+        }
+    }
+    .header-info{
+        display: flex;
+        justify-content: center !important;
+        align-self: center !important;
+        
+    }
+}
+
+.img-header{
+    width: 30px !important;
+    height: 30px !important;
+    margin-right: 10px;
+}

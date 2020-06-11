@@ -1,0 +1,27 @@
+.bg-clear {
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+.bg-clear-1 {
+    padding: 5px !important;
+}
+
+.btn-add-cate {
+    position: absolute;
+    z-index: 200;
+    left: 100%;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 100px;
+    min-height: 40px;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    box-shadow: 2px 2px 4px rgb(177, 177, 177);
+    background-image: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);
+    margin: 0 0 0 -6.5em !important;
+    top: -10px;
+    cursor: pointer;
+}

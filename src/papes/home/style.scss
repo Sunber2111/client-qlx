@@ -1,0 +1,46 @@
+.Home{
+    height: 100vh;
+    background-color: #FEFEFE;
+
+    .logo{
+        width: 150px;
+    }
+    .btn-home{
+        position: absolute;
+        left: 20px !important;
+        width: 260px;
+        height: 50px;
+        top:74%;
+        background-color: #2D66F5 !important;
+        color: white !important;
+        font-size: 24px !important;
+        padding:  0 !important;
+    }
+    .t1{
+        color: #32375D;
+        font-size: 70px;
+        font-weight: bold;
+        position: absolute;
+        margin-top: 50px;
+        margin-left: 20px;
+    }
+    .t2{
+        color: #32375D;
+        font-size: 69px;
+        font-weight: 200;
+        position: absolute;
+        margin-top: 150px;
+        margin-left: 20px;
+    }
+    .bg{
+        width: 57%;
+        position: absolute;
+        right: 0;
+    }
+    .des{
+        position: absolute;
+        margin-top: 270px;
+        margin-left: 20px;
+        width: 350px;
+    }
+}

@@ -1,0 +1,17 @@
+.form-cus {
+    
+    .info-s-d {
+        display: flex;
+        .info-s {
+            margin-right: auto;
+        }
+    }
+    .btn-sub-cus{
+        display: flex;
+        justify-content: center;
+    }
+}
+
+.MuiFormControl-fullWidth{
+    margin-bottom: 20px !important;
+}

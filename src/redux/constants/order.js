@@ -1,0 +1,6 @@
+export const GET_ALL_ORDER = "GET_ALL_ORDER";
+export const DELETE_ORDER = "DELETE_ORDER";
+export const ADD_ORDER = "ADD_ORDER";
+export const DELETE_ORDER_DETAIL = "DELETE_ORDER_DETAIL";
+export const ADD_ORDER_DETAIL = "ADD_ORDER_DETAIL";
+export const SET_SELECT_ORDER = "SET_SELECT_ORDER";

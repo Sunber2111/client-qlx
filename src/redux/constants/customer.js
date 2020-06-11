@@ -1,0 +1,6 @@
+export const GET_ALL_CUSTOMER = "GET_ALL_CUSTOMER";
+export const UPDATE_CUSTOMER = "UPDATE_CUSTOMER";
+export const DELETE_CUSTOMER = "DELETE_CUSTOMER";
+export const ADD_CUSTOMER = "ADD_CUSTOMER";
+export const GET_ORDERS_OF_CUS = "GET_ORDERS_OF_CUS";
+export const FILTER_CUS = "FILTER_CUS";

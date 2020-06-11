@@ -1,0 +1,11 @@
+export const LOGIN = "LOGIN";
+export const LOGOUT = "LOGOUT";
+export const GET_CURRENT_USER = "GET_CURRENT_USER";
+export const ACCOUNT_ERRORS = "ACCOUNT_ERRORS";
+export const SET_NONE_ERRORS = "SET_NONE_ERRORS";
+export const SET_APP_LOADED = "SET_APP_LOADED";
+export const GET_ALL_ACC = "GET_ALL_ACC";
+export const UPDATE_ACTIVE = "UPDATE_ACTIVE";
+export const SET_SELECT_ACC = "SET_SELECT_ACC";
+export const DELETE_ACC = "DELETE_ACC";
+export const REGIS_ACC = "REGIS_ACC";

@@ -1,0 +1,52 @@
+.card-emp{
+    .img-emp{
+        height: 210px !important;
+        width: 100%;
+        border-radius: 6px;
+        object-fit: cover;
+    }
+    .info-detail{
+        margin-top: -10px;
+        padding-top: 20px;
+        font-family: "Montserrat", sans-serif !important;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        border-radius: 0px 0px 16px 16px;
+        padding-bottom: 10px;
+        
+    }
+    h4{
+        margin-bottom: 6px !important;
+    }
+    
+    button{
+        position: absolute !important;
+        top: 10px;
+        right: 20px;
+        background-color: white !important;
+        border-radius: 100% !important;
+        box-shadow: 4px 4px 5px #888888c0 !important;
+    }
+    .btn-delete-emp{
+        margin-right: 50px !important;
+    }
+}
+
+@media only screen and (min-width: 370px) 
+{
+    .card-emp{
+        margin-bottom: 20px !important;
+    }
+
+    .ant-layout-sider-collapsed{
+        width: 50px !important;
+    }
+}
+
+.info-emp-pape{
+    display: flex;
+    button{
+        height: 36px;
+        margin-left: 20px !important;
+    }
+}
